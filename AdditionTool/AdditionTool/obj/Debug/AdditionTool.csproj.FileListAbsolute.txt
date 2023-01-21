@@ -1,0 +1,8 @@
+C:\Users\ahmet\source\repos\AdditionTool\AdditionTool\bin\Debug\AdditionTool.exe.config
+C:\Users\ahmet\source\repos\AdditionTool\AdditionTool\bin\Debug\AdditionTool.exe
+C:\Users\ahmet\source\repos\AdditionTool\AdditionTool\bin\Debug\AdditionTool.pdb
+C:\Users\ahmet\source\repos\AdditionTool\AdditionTool\obj\Debug\AdditionTool.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\AdditionTool\AdditionTool\obj\Debug\AdditionTool.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\source\repos\AdditionTool\AdditionTool\obj\Debug\AdditionTool.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\AdditionTool\AdditionTool\obj\Debug\AdditionTool.exe
+C:\Users\ahmet\source\repos\AdditionTool\AdditionTool\obj\Debug\AdditionTool.pdb
